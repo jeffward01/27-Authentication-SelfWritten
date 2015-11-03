@@ -1,0 +1,24 @@
+{
+  "name": "AuthenticationClient",
+  "homepage": "https://github.com/jeffward01/27-Authentication-SelfWritten",
+  "authors": [
+    "jeffward01 <jeffwardcoding@gmail.com>"
+  ],
+  "description": "An Authentication Client",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.7",
+    "angular-loading-bar": "~0.8.0",
+    "bootswatch": "~3.3.5+4"
+  }
+}
