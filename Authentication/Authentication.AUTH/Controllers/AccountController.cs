@@ -1,4 +1,5 @@
-﻿using Authentication.AUTH.Models;
+﻿using AngularJSAuthentication.API;
+using Authentication.AUTH.Models;
 using Microsoft.AspNet.Identity;
 using System;
 using System.Collections.Generic;

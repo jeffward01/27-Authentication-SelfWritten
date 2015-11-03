@@ -25,6 +25,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Authentication.Web", "Authe
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "60492"
+		SlnRelativePath = "Authentication.Web\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
